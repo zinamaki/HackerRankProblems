@@ -69,7 +69,6 @@ public class DesignerPDFViewer {
 		alphabet.add('y');
 		alphabet.add('z');
 		
-		
 		return alphabet;
 	}
 
